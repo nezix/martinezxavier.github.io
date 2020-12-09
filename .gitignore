@@ -1,0 +1,12 @@
+# Everything but the docs folder
+config.toml
+
+/archetypes/
+/content/
+/static/
+/themes/
+
+/resources/_gen/
+
+# Executable
+hugo.linux
