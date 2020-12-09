@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xavier Martinez</title>
+    <link>localhost/</link>
+    <description>Recent content on Xavier Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 4.0&lt;/a&gt;</copyright><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>localhost/about/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>About me I am currently a post-doctoral fellow at LBT (Laboratoire de Biochimie Theorique) in Paris, in Marc Baaden&amp;rsquo;s team working on UnityMol, a molecular viewer built in Unity game engine.
+During my Ph.D at LIMSI, VENISE team in Orsay under supervision of Patrick Bourdot, I worked on creating a tangible interface for interacting with molecular simulations like protein-protein docking or IMD (interactive molecular dynamics). Thanks to a recent collaboration between Nicolas Férey and Bastien Vincke, the project evolved to embed electronical parts like sensors.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>localhost/publications/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/publications/</guid>
+      <description>Vincke, B., Ghaoui, M.A., Férey, N., Martinez, X., 2020. Physical, Modular and Articulated Molecular Interface for Interactive Simulation. Sensors. DOI: 10.3390/s20185415
+  Martinez, X., Hardiagon, A., Santuz, H., Murail, S., Barboiu, M. Sterpone, F., Baaden, M., 2020. Using Computer Simulations and Virtual Reality to Understand, Design and Optimize Artificial Water Channels. Advances in Bionanomaterials, Springer, Cham. DOI: 10.1007/978-3-030-47705-9_8
+  Martinez, X., Baaden, B., 2020. FAIR sharing of molecular visualization experiences: from pictures in the cloud to collaborative virtual reality exploration in immersive 3D environments.</description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>localhost/showcase/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/showcase/</guid>
+      <description>        </description>
+    </item>
+    
+  </channel>
+</rss>
