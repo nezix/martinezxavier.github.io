@@ -1,5 +1,7 @@
-baseurl      = "localhost"
-title        = "My Blog"
+#baseurl      = "martinezxavier.github.io"
+baseurl = ""
+relativeURLs = "True"
+title        = "Xavier Martinez"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
