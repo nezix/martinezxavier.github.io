@@ -1,0 +1,92 @@
+baseurl      = "localhost"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Post-doc at CNRS-LBT | UnityMol developer"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+    #footerLeft = " "
+    #footerRight = " "
+
+	[[params.social]]
+	name = "twitter"
+	url  = "https://twitter.com/N3zix"
+
+	[[params.social]]
+	name = "email"
+	url  = "mailto:xavier.martinez.xm@gmail.com"
+
+	[[params.social]]
+	name = "github"
+	url  = "https://github.com/nezix"
+
+	[[params.social]]
+	name = "linkedin"
+	url  = "https://www.linkedin.com/in/xavier-martinez-51a8304a/"
+
+	[[params.social]]
+	name = "youtube"
+	url  = "https://www.youtube.com/channel/UCBH8_6C_nG64RA7L_K7wcbg"
+
+  [params.portrait]
+    path     = "/img/minime.jpg"
+    alt      = "Portrait"
+    maxWidth = "300px"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Xavier Martinez"
+    subtitle = ""
+    keywords = ""
+    #readOtherPosts = "Read other posts"
+    copyright = '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
+
+    [languages.en.params.logo]
+      logoText = "Xavier Martinez"
+      logoHomeLink = "/"
+      logoCursorDisabled = true
+
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "About"
+    name       = "About"
+    url        = "/About"
+  [[menu.main]]
+    identifier = "Publications"
+    name       = "Publications"
+    url        = "/publications"
+  [[menu.main]]
+    identifier = "Showcase"
+    name       = "Showcase"
+    url        = "/showcase"

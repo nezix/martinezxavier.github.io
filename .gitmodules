@@ -1,0 +1,9 @@
+[submodule "gitio/meghna-hugo"]
+	path = gitio/themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo
+[submodule "gitio/themes/hello-friend"]
+	path = gitio/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "gitio/themes/hello-friend-ng"]
+	path = gitio/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng
