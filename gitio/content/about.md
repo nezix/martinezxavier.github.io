@@ -7,7 +7,10 @@ author = "Xavier Martinez"
 
 # About me
 
-I am currently a post-doctoral fellow at LBT (Laboratoire de Biochimie Theorique) in Paris, in Marc Baaden's team working on UnityMol, a molecular viewer built in Unity game engine.
+I am currently a full stack developer at [Nanome inc](https://nanome.ai/), working remotely from Paris, from low-level optimizations, improving software architecture, rendering quality and performance, to adding/improving high-level features and UI. I also implement python plugins for the Nanome platform, like OpenMM docking plugin.  
+
+
+Before that, I was a post-doctoral fellow at LBT (Laboratoire de Biochimie Theorique) in Paris, in Marc Baaden's team working on UnityMol, a molecular viewer built in Unity game engine.
 
 During my Ph.D at LIMSI, VENISE team in Orsay under supervision of [Patrick Bourdot](https://perso.limsi.fr/pb/), I worked on creating a tangible interface for interacting with molecular simulations like protein-protein docking or IMD (interactive molecular dynamics).
 Thanks to a recent collaboration between [Nicolas Férey](https://perso.limsi.fr/ferey/contact.html) and [Bastien Vincke](http://satie.ens-paris-saclay.fr/version-francaise/la-recherche/pole-siame-systemes-d-information-et-d-analyse-multi-environnements/groupe-moss-methodes-et-outils-pour-les-signaux-et-systemes/vincke-bastien-343042.kjsp?RH=1363876775651), the project evolved to embed electronical parts like sensors.
